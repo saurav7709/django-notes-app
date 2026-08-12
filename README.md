@@ -1,4 +1,4 @@
-# Simple Notes App for TWS Community test
+# Simple Notes App for TWS Community test2
 This is a simple notes app built with React and Django.
 
 ## Requirements
